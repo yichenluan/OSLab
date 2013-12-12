@@ -1,4 +1,3 @@
-#Life is Short , I Use Python ! If you read this sentence , Please update Python to 2.7 or 3.3.  Thanks      -----from JinKe
 
 class Proceed :
 
